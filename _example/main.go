@@ -29,4 +29,3 @@ func main() {
 
 	a.ConditionalFlush(15, time.Minute)
 }
-
